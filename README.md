@@ -1,2 +1,2 @@
 # Pacman
- I have created Pacman using sfml and c++
+Developed Pacman using sfml and c++
