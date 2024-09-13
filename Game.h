@@ -4,6 +4,7 @@
 #include "Ghost_types.h"
 
 
+
 class Game
 {
 private:
