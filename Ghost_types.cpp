@@ -1,4 +1,5 @@
 #include "Ghost_types.h"
+
 //////////////////
 Blinky::Blinky(Position p)
 {
