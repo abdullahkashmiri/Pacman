@@ -1,5 +1,6 @@
 #include "PlayerPac.h"
 using namespace std;
+
 void PlayerPac::initVariables()
 {
 	this->animStatepac = IDLE;
