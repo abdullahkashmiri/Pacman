@@ -1,5 +1,6 @@
 #include "Game.h"
 
+
 using namespace std;
 void Game::frame_rt_AllGhost()
 {
