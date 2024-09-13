@@ -1,4 +1,5 @@
 #include "Ghost_draw.h"
+
 using namespace std;
 void Ghost_draw::initVariables(int x,int y, char col)
 {
