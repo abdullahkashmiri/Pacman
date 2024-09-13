@@ -1,6 +1,7 @@
 #include"PlayerPac.h"
 //#include "Ghost_types.h"
 
+
 #pragma once
 //enum PLAYER_ANIMATION_STATES { IDLE = 0, MOVING_LEFT, MOVING_RIGHT, MOVING_UP, MOVING_DOWN };
 class Ghost_draw
