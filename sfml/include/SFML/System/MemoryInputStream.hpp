@@ -22,6 +22,7 @@
 //
 ////////////////////////////////////////////////////////////
 
+
 #ifndef SFML_MEMORYINPUTSTREAM_HPP
 #define SFML_MEMORYINPUTSTREAM_HPP
 
