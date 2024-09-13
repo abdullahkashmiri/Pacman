@@ -2,6 +2,7 @@
 #include "PlayerPac.h"
 //#include"Game.h"
 
+
 class Ghost
 {
 private:
