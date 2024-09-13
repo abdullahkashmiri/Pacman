@@ -3,6 +3,7 @@
 #include "Ghost.h"
 #include "Ghost_draw.h"
 
+
 using namespace std;
 
 class Blinky :public Ghost
