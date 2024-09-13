@@ -22,6 +22,7 @@
 //
 ////////////////////////////////////////////////////////////
 
+
 #ifndef SFML_NATIVEACTIVITY_HPP
 #define SFML_NATIVEACTIVITY_HPP
 
