@@ -1,5 +1,6 @@
 #include "Ghost.h"
 using namespace std;
+
 void Ghost::initVariables()
 {
 	this->ghostPos.x = 10;
