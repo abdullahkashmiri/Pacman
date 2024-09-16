@@ -22,6 +22,7 @@
 //
 ////////////////////////////////////////////////////////////
 
+
 #ifndef SFML_FILEINPUTSTREAM_HPP
 #define SFML_FILEINPUTSTREAM_HPP
 
