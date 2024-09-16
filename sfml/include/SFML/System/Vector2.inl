@@ -33,6 +33,7 @@ y(0)
 }
 
 
+
 ////////////////////////////////////////////////////////////
 template <typename T>
 inline Vector2<T>::Vector2(T X, T Y) :
